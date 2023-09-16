@@ -431,9 +431,8 @@ span{
     .contact form .input-box input{
         width:100%;
     }
-      .bar{
-        width:70%;
-    }
+   .bar{
+width:70%; 
 
 }
 @media (max-width:150px)
