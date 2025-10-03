@@ -229,7 +229,7 @@ span{
 }
 .color1{
     background-color: var(--main-color);
-    width:85%;
+    width:95%;
     text-align: right;
     color:var(--bg-color);
     font-size: 1.5rem;
@@ -246,7 +246,7 @@ span{
         width:0%;
     }
     to{
-        width:85%;
+        width:95%;
     }
 }
 .color2{
@@ -272,7 +272,7 @@ span{
 }
 .color3{
     background-color: var(--main-color);
-    width:40%;
+    width:80%;
     text-align: right;
     color:var(--bg-color);
     font-size: 1.5rem;
@@ -288,7 +288,7 @@ span{
         width:0%;
     }
     to{
-        width:40%;
+        width:80%;
     }
 }
 .color4{
@@ -431,8 +431,9 @@ span{
     .contact form .input-box input{
         width:100%;
     }
-   .bar{
-width:70%; 
+    .bar{
+        width:70%;
+    }
 
 }
 @media (max-width:150px)
